@@ -20,10 +20,11 @@
     
     
  <div> 
-    <a href="https://www.linkedin.com/in/nathalia-oliveira-cruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/nathalia-oliveira-cruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+ ![Snake animation](https://github.com/Nathalia-Cruz/Nathalia-Cruz/blob/output/github-contribution-grid-snake.svg)
  </div>
-<div>
-![Snake animation](https://github.com/Nathalia-Cruz/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
