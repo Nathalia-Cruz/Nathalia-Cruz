@@ -6,7 +6,7 @@
 - :blue_book: Sou estagiária na área de Qualidade de Testes de Software;
 - :seedling: Estou estudando para me certificar em CTFL Foundation Level;
 - :sparkles: Estou em busca de novas oportunidades e ascensão de carreira;
-- :school: Sou formada em Economia, mas migrando para QA!
+- :school: Sou graduada em Economia, mas migrando para QA!
 - :heart_eyes: Amo minha famíla e meus cachorros :two_hearts:
 
 
