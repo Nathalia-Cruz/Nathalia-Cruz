@@ -4,7 +4,7 @@
 
 
 - :blue_book: Sou estagiária na área de Qualidade de Testes de Software;
-- :seedling: Estou estudando para me certificar em CTFL Foundation Level;
+- :seedling: Sou certificada em CTFL Foundation Level - ISTQB;
 - :sparkles: Estou em busca de novas oportunidades e ascensão de carreira;
 - :school: Sou graduada em Economia, mas migrando para QA!
 - :heart_eyes: Amo minha famíla e meus cachorros :two_hearts:
