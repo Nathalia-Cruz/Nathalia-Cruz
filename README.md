@@ -3,10 +3,9 @@
 
 
 
-- :blue_book: Sou Analista de Qualidade de Testes de Software Júnior;
-- :seedling: Sou certificada em CTFL Foundation Level - ISTQB;
-- :sparkles: Estou em busca de novas oportunidades e ascensão de carreira;
-- :school: Sou graduada em Economia, mas migrei para QA!
+- :blue_book: Sou Analista de Qualidade de Software;
+- :seedling: Sou certificada em CTFL Foundation Level - ISTQB e pós-graduada em Engenharia de Software;
+- :sparkles: Estou sempre em busca de novos conhecimentos e ascensão de carreira;
 - :heart_eyes: Amo minha famíla e meus cachorros :two_hearts:
 
 
