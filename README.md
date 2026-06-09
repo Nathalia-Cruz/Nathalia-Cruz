@@ -57,7 +57,7 @@ Aqui compartilho projetos práticos que demonstram minha experiência em:
 
 ## 🎯 Busco Sempre Evoluir!
 
-Estou sempre estudando novas tecnologias e aprimorando minhas habilidades. Atualmente aprofundando conhecimentos em automação utilizando IA, boas práticas de arquitetura de testes e na lńgua inglesa. 🌱
+Estou sempre estudando novas tecnologias e aprimorando minhas habilidades. Atualmente aprofundando conhecimentos em automação utilizando IA, boas práticas de arquitetura de testes e na língua inglesa. 🌱
 
 ---
 
