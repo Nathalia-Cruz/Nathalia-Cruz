@@ -29,7 +29,7 @@ Ao longo da minha carreira, venho aprimorando minhas habilidades em testes de so
 
 `Automação de Testes 🤖` Cypress · BDD · Gherkin · Cucumber · Page Objects
 
-`Testes de API 🔗` Postman · Newman
+`Testes de API 🔗` Postman 
 
 `Testes Mobile 📱` Android Studio · Docker
 
@@ -48,7 +48,7 @@ Com formação em **Ciências Econômicas** e pós-graduação em **Engenharia d
 Aqui compartilho projetos práticos que demonstram minha experiência em:
 
 - Automação de testes com **Cypress + BDD**
-- Testes de **API com Postman/Newman**
+- Testes de **API com Postman**
 - Testes **Web e Mobile**
 - Configuração de **pipelines CI/CD**
 - **Code review** e documentação técnica
@@ -186,31 +186,14 @@ Testes em dispositivos Android via Android Studio e Docker, cobrindo fluxos de n
 <br>
 
 <details>
-<summary>Postman + Newman</summary>
+<summary>Postman</summary>
 
 <br>
 
-## Postman + Newman — Testes de API na Prática
+## Postman — Testes de API na Prática
 
 O **Postman** é a ferramenta central da minha rotina de testes de API. Utilizo-o para validar endpoints REST — status codes, bodies de resposta, autenticação Bearer Token, variáveis de ambiente e scripts de teste automatizados.
 
-O **Newman** complementa o fluxo rodando as collections diretamente via terminal e gerando relatórios em HTML.
-
-**Instalação do Newman:**
-```bash
-npm i -g newman
-```
-
-**Rodando uma collection:**
-```bash
-newman run nome_do_arquivo.json
-```
-
-**Gerando relatório HTML:**
-```bash
-npm i -g newman-reporter-htmlextra
-newman run nome_do_arquivo.json -r htmlextra
-```
 
 **Exemplos de validações que costumo fazer:**
 - Criação de usuário com e-mail dinâmico via script
