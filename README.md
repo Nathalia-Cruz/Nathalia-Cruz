@@ -75,7 +75,7 @@ Se você trabalha com desenvolvimento de software ou engenharia de qualidade, pr
 
 > Compreender esses conceitos é fundamental para desenvolver e manter produtos de alta qualidade. Identificando e corrigindo defeitos, prevenimos falhas e garantimos que o produto funcione corretamente.
 
-[Saiba mais sobre o tema](https://www.eduardolam.com.br/2023/04/diferenca-entre-erro-falha-e-defeito.html)
+[Saiba mais sobre o tema: page 16](https://bstqb.online/files/syllabus_ctfl_4.0br.pdf)
 
 ---
 
