@@ -262,7 +262,8 @@ export default new LoginPage()
 ```
 ### Custom commands:
 
-```Cypress.Commands.add('login', (email, pw) => {})
+```javascript
+Cypress.Commands.add('login', (email, pw) => {})
 Cypress.Commands.addAll({
   login(email, pw) {},
   visit(orig, url, options) {},
