@@ -257,7 +257,19 @@ class LoginPage {
   }
 }
 export default new LoginPage()
+
+
 ```
+### Custom commands:
+
+Cypress.Commands.add('login', (email, pw) => {})
+Cypress.Commands.addAll({
+  login(email, pw) {},
+  visit(orig, url, options) {},
+})
+Cypress.Commands.overwrite('visit', (orig, url, options) => {})
+
+
 
 ### Exemplo de Step Definition:
 
