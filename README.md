@@ -379,12 +379,6 @@ WHERE data_criacao >= CURDATE()
 AND status = 'PROCESSADO'
 ORDER BY data_criacao DESC;
 
--- Verificar integridade de integração com ERP
-SELECT a.id, a.valor, b.status_erp
-FROM lancamentos a
-LEFT JOIN integracao_erp b ON a.id = b.lancamento_id
-WHERE b.status_erp IS NULL;
-
 -- Conferir dados de usuário após cadastro via API
 SELECT id, email, perfil, ativo
 FROM usuarios
