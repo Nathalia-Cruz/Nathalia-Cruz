@@ -109,17 +109,6 @@ Exemplos:
 
 ---
 
-**`Diferença Principal`**
-
-| Aspecto | Safety | Security |
-|----------|----------|----------|
-| Foco | Prevenir danos por falhas não intencionais | Prevenir danos por ataques intencionais |
-| Origem do Risco | Erros, falhas de hardware/software | Ataques cibernéticos, acessos não autorizados |
-| Exemplo Prático | Avião não deve cair por falha no sistema | Sistema bancário não deve ser invadido |
-| Objetivo | Sistema seguro e confiável em operação | Dados e sistemas protegidos contra ameaças |
-
-> Em sistemas complexos como carros autônomos, `Safety` e `Security` estão interligados: um ataque de Security pode causar uma falha de Safety.
-
 **Resumindo:**
 - `Safety` = Proteção contra falhas **não intencionais**
 - `Security` = Proteção contra ameaças **intencionais**
@@ -213,7 +202,7 @@ O **Postman** é a ferramenta central da minha rotina de testes de API. Utilizo-
 
 ## 🚀 Testes de Automação com Cypress
 
-O **Cypress** é minha principal ferramenta de automação. Trabalho com ele utilizando o padrão **Page Objects** e **BDD com Cucumber/Gherkin**, cobrindo cenários de regressão, testes funcionais e de API.
+O **Cypress** é minha principal ferramenta de automação. Trabalho com ele utilizando o padrão **Page Objects / custom commands** e **BDD com Cucumber/Gherkin**, cobrindo cenários de regressão, testes funcionais e de API.
 
 | Vantagem | Descrição |
 |----------|----------|
@@ -221,7 +210,7 @@ O **Cypress** é minha principal ferramenta de automação. Trabalho com ele uti
 | ✅ JavaScript nativo | Linguagem que domino no dia a dia |
 | ✅ BDD com Gherkin | Cenários legíveis para todo o time |
 | ✅ CI/CD | Integrado ao pipeline de entrega contínua |
-| ✅ Page Objects | Código organizado e reutilizável |
+| ✅ Page Objects / Custom commands | Código organizado e reutilizável |
 
 ### Estrutura que utilizo nos projetos:
 
